@@ -1,7 +1,25 @@
-<img  alt = "banner" height = "200px" width = "100%" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1s55BCrysHMER0QXH8sUtyDPYPKkN1sDo4w&usqp=CAU"/>
 
-<h1 align="center">Hi 👋, I'm Md Tabish</h1>
+<h1 align="left">Hi 👋, I'm Md Tabish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p width = "60%"> In 2nd Semester of my college I was introduced the first programming language as C. At that time i am not interested in Coding . 
+
+But during lockdown I wanted to try new things so I started scrolling webpages and websites and that's how my interest developed in Web Development. 
+
+So i decided to explore myself in this field and searching for the platform where I can learn that type of skills which is used to make websites. 
+
+Through social media I knew about Masai School and decided to join Masai School to improve my skills and confidence. 
+
+Currently I am learning Full Stack Web Development Course in Masai School. Apart from technical skill extra activity also changed alot. Now I have good command on HTML, CSS ,JavaScript and Data Structure Algorithm. Using these Skills I have done some projects with team and from here I experienced the collaboration work. 
+I am enjoying this learning journey in Masai School very well. 
+</p>
+
+
+
+
+<br/>
+<br />
+<br />
+
 <img align = "right" alt = "coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtabish803116&label=Profile%20views&color=0e75b6&style=flat" alt="mdtabish803116" /> </p>
