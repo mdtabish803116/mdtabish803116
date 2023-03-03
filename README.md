@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtabish803116&label=Profile%20views&color=0e75b6&style=flat" alt="mdtabish803116" /> </p>
 
-- 🌱 I’m currently learning **React , Redux**
+- 🌱 currently working as iOS developer
 
-- 💬 Ask me about **HTML , CSS , Javascript**
+- 💬 Ask me about **HTML , CSS , Javascript , swift**
 
 - 📫 How to reach me **mdtabish803116@gmail.com**
 
