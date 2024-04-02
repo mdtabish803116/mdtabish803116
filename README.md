@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Md Tabish</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">Full Stack Web Developer from India</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU"/>
 
